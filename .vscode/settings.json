@@ -2,5 +2,8 @@
     "files.associations": {
         "**/templates/*.html": "django-html",
         "**/templates/**/*.html": "django-html"
+    },
+    "emmet.includeLanguages": {
+        "django-html": "html"
     }
 }
